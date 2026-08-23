@@ -1,0 +1,8 @@
+name: damml2026
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.11
+  - poetry=2.4.1
