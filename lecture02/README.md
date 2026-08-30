@@ -1,6 +1,6 @@
 # Lecture #02 (Introduction to Machine Learning)
 
-This folder contains the supporting material used during Lecture #02 of the Data Mining and Machine Learning KSD course (Autumn 2026).
+This folder contains the supporting material used during **Lecture #02** of the Data Mining and Machine Learning KSD course (Autumn 2026) **on 03 September 2026**.
 
 ## Overview
 
